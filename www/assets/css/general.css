@@ -1,0 +1,26 @@
+.page-links-nav {
+  /*display: flex;*/
+  /*width: 100%;*/
+  /*flex-flow: row;*/
+  /*overflow: auto;*/
+}
+
+#navbarResponsive {
+  overflow: auto;
+}
+
+.h-full {
+  min-height: 100vh;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#mainNav {
+}
+
+.with-bg {
+  background-image: url('../../assets/img/intro-bg.jpg?h=145cae4a8124ee5dac950230c1552d3c');
+}
+
